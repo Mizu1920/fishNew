@@ -8,5 +8,5 @@ paragraph2.addEventListener("mouseover", function() {
     console.log("Now click the same line...");
 })
 paragraph2.addEventListener("click", function() {
-    alert("YOU'RE GAY! HA!");
+    alert(":3");
 })
